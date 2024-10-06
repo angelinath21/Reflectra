@@ -1,0 +1,27 @@
+Attribute,Value
+image_attributes,
+    spacecraft_id,LANDSAT_8
+    sensor_id,OLI_TIRS
+    station_id,LGN
+    date_acquired,2020-01-16
+    time_acquired,10:26:14.2122930Z
+    wrs_type,2
+    wrs_path,195
+    wrs_row,51
+    image_quality,
+    cloud_cover,0.00
+    cloud_cover_land,0.00
+    sun_azimuth,141.34038348
+    sun_elevation,46.66923693
+    earth_sun_distance,0.9836271
+,
+coordinates,
+    UL_lat,14.05902
+    UL_lon,-2.54892
+    UR_lat,14.04597
+    UR_lon,-0.4491
+    LL_lat,11.96479
+    LL_lon,-2.55269
+    LR_lat,11.95375
+    LR_lon,-0.47039
+,
